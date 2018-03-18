@@ -1,0 +1,2 @@
+O foco nessa aula foi analisar por ondas as oscilações quando usamos polling.
+Foi analisada a questão do delay e relatado que o ideal é usar interrupção.

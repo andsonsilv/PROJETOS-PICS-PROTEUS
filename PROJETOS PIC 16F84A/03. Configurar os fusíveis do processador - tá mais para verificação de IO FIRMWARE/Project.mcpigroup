@@ -1,0 +1,8 @@
+[PROJECTS]
+Count=4
+Project0=..\..\firmaweBLK.mcppi
+Project1=..\02 BLK 3 Leds FIRMWARE\BLK3Leds.mcppi
+Project2=..\03. Configurar os fusíveis do processador FIRMWARE\BLK3Leds.mcppi
+Project3=..\03. Configurar os fusíveis do processador FIRMWARE\Project.mcppi
+[ActiveProject]
+Index=3
